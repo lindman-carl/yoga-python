@@ -1,3 +1,3 @@
-## Carl Lindman
+## Yoga-python
 
 This is my public github. 
